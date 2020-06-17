@@ -4,6 +4,6 @@
 **2. System a detect crack in Railway tracks and its location to nearest concerned authority using Arduino UNO**</br></br>
 **3. Developed a App to implement a search engine using React**</br></br>
 **4. Smart Traffic Light Control System using Canny Edge Detection**</br></br>
-**5. Developed the website for technical fest,Innovation 2K20**
+**5. Developed the website for technical fest,"Innovation 2K20"**
 
 
